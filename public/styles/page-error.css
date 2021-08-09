@@ -1,0 +1,52 @@
+/** Page not found image (left side)  ***/
+#bg-error{
+    grid-area: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+}
+
+#bg-error img{
+    max-width: 45rem;
+    margin-bottom: 12rem;
+}
+
+/** Page not found Text (right side)  ***/
+
+.main-error{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-error h1{
+    font-family: 'Poppins', sans-serif;
+    color: var(--black);
+    font-weight: 700;
+    font-size: clamp(3.5rem, 5vw, 5rem);
+    line-height: 5rem;
+}
+
+.main-error h2{
+    margin-bottom: 1rem;
+    font-size: clamp(2rem, 2vw, 3rem);
+    text-align: center;
+}
+
+.main-error p{
+    margin-bottom: 2.4rem
+}
+
+
+.button{
+    width: 90%;
+    overflow-wrap: break-word;
+    line-height: normal;
+    text-align: center;
+}
+.button > img{
+    margin-left: 1rem;
+}
