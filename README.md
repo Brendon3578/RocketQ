@@ -65,7 +65,7 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 ```
 
-*É possível deletar o banco de dados também, que está em `./src/db/rocketq.sqlite`*
+*Se desejar, é possível deletar o banco de dados que está em `./src/db/rocketq.sqlite`*
 
 ## 📷 Layout
 
