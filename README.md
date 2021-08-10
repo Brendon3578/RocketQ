@@ -52,7 +52,10 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
     $ git clone https://github.com/Brendon3578/RocketQ
 
     # Entrar no diretório
-    $ cd rocketmusic
+    $ cd RocketQ
+    
+    # Instalar as dependências
+    $ npm install
 
     # Criar o banco de dados (executar apenas uma vez)
     $ npm run init-db
