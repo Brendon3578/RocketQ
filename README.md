@@ -7,7 +7,7 @@
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-como-inicializar-o-projeto">Inicialização</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-features">Features extras</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-features-extras">Features extras</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-licença">Licença</a>
 </p>
 
